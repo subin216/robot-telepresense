@@ -46,13 +46,13 @@ Give an example
 
 ### screenshot 
 
-![screenshot_2018-11-13-13-14-46](https://user-images.githubusercontent.com/34588197/48445588-c2b4ea80-e74b-11e8-99ef-b4ed6d185424.png)
-![screenshot_2018-11-13-13-14-57](https://user-images.githubusercontent.com/34588197/48445589-c2b4ea80-e74b-11e8-9b8f-b09226598585.png)
-![screenshot_2018-11-13-13-17-29](https://user-images.githubusercontent.com/34588197/48445590-c2b4ea80-e74b-11e8-8937-70ccea60d160.png)
-![screenshot_2018-11-13-13-17-37](https://user-images.githubusercontent.com/34588197/48445591-c2b4ea80-e74b-11e8-9207-3eea146211a6.png)
-![screenshot_2018-11-13-13-17-41](https://user-images.githubusercontent.com/34588197/48445594-c2b4ea80-e74b-11e8-8d67-677322d4188b.png)
-![screenshot_2018-11-13-13-17-47](https://user-images.githubusercontent.com/34588197/48445595-c2b4ea80-e74b-11e8-9529-75a2abf96265.png)
-![screenshot_2018-11-13-13-17-55](https://user-images.githubusercontent.com/34588197/48445596-c34d8100-e74b-11e8-8a2d-a30562648193.png)
+![screenshot_2018-11-13-13-14-46](https://user-images.githubusercontent.com/34588197/48445588-c2b4ea80-e74b-11e8-99ef-b4ed6d185424.png=150x)
+![screenshot_2018-11-13-13-14-57](https://user-images.githubusercontent.com/34588197/48445589-c2b4ea80-e74b-11e8-9b8f-b09226598585.png=150x)
+![screenshot_2018-11-13-13-17-29](https://user-images.githubusercontent.com/34588197/48445590-c2b4ea80-e74b-11e8-8937-70ccea60d160.png=150x)
+![screenshot_2018-11-13-13-17-37](https://user-images.githubusercontent.com/34588197/48445591-c2b4ea80-e74b-11e8-9207-3eea146211a6.png=150x)
+![screenshot_2018-11-13-13-17-41](https://user-images.githubusercontent.com/34588197/48445594-c2b4ea80-e74b-11e8-8d67-677322d4188b.png=150x)
+![screenshot_2018-11-13-13-17-47](https://user-images.githubusercontent.com/34588197/48445595-c2b4ea80-e74b-11e8-9529-75a2abf96265.png=150x)
+![screenshot_2018-11-13-13-17-55](https://user-images.githubusercontent.com/34588197/48445596-c34d8100-e74b-11e8-8a2d-a30562648193.png=150x)
 
 
 ### And coding style tests
