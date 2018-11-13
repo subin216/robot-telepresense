@@ -46,13 +46,14 @@ Give an example
 
 ### screenshot 
 
-![image](/uploads/6b9d679a86bd969d760f694637fe9a34/image.png)
-![image](/uploads/b552365aa8317d5daec6d21a6ea7989e/image.png)
-![image](/uploads/f7ea15a46c9dd5b57283654e11e3c133/image.png)
-![image](/uploads/759ebb3a0c1b2610477faf396b67dd63/image.png)
-![image](/uploads/bfc665cd94c853dc6694b08c1c3e8d0f/image.png)
-![image](/uploads/b36b1a610be2ab1fd58ae5816c2e3252/image.png)
-![image](/uploads/2d6ad0ac6a318bbba89eacaae5833344/image.png)
+![screenshot_2018-11-13-13-14-46](https://user-images.githubusercontent.com/34588197/48445588-c2b4ea80-e74b-11e8-99ef-b4ed6d185424.png)
+![screenshot_2018-11-13-13-14-57](https://user-images.githubusercontent.com/34588197/48445589-c2b4ea80-e74b-11e8-9b8f-b09226598585.png)
+![screenshot_2018-11-13-13-17-29](https://user-images.githubusercontent.com/34588197/48445590-c2b4ea80-e74b-11e8-8937-70ccea60d160.png)
+![screenshot_2018-11-13-13-17-37](https://user-images.githubusercontent.com/34588197/48445591-c2b4ea80-e74b-11e8-9207-3eea146211a6.png)
+![screenshot_2018-11-13-13-17-41](https://user-images.githubusercontent.com/34588197/48445594-c2b4ea80-e74b-11e8-8d67-677322d4188b.png)
+![screenshot_2018-11-13-13-17-47](https://user-images.githubusercontent.com/34588197/48445595-c2b4ea80-e74b-11e8-9529-75a2abf96265.png)
+![screenshot_2018-11-13-13-17-55](https://user-images.githubusercontent.com/34588197/48445596-c34d8100-e74b-11e8-8a2d-a30562648193.png)
+
 
 ### And coding style tests
 
