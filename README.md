@@ -9,12 +9,12 @@ Flask on Google App Engine
 React Native for App on Tablet
 
 ### User Libraries in Android
+* Google AppCompat
+* [Picasso](http://square.github.io/picasso/) - Image downloading and caching library
+* [ChatKit](https://github.com/stfalcon-studio/ChatKit) - Message UI library
+* [CircleIndicator](https://github.com/ongakuer/CircleIndicator) - Customed Circle Indicator
+* [Butterknife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
 
-Google AppCompat
-Picasso for processing image
-Chatkit
-CircleIndicator
-Butterknife
 
 ### Installing
 
