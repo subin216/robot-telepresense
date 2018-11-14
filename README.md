@@ -12,18 +12,18 @@ Java (Android Studio)
 * [Butterknife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
 ### screenshot 
 * Login Activity </br>
-![layer 0](https://user-images.githubusercontent.com/34588197/48455926-f571d980-e771-11e8-8846-e57aefce80b2.png)
+![layer 0-8](https://user-images.githubusercontent.com/34588197/48456692-d294f480-e774-11e8-9fe6-8483908d95ca.png)
 * SignUp Activity </br>
-![layer 0-2](https://user-images.githubusercontent.com/34588197/48455919-f4d94300-e771-11e8-86d8-209dd4fbf73d.png)
+![layer 0-9](https://user-images.githubusercontent.com/34588197/48456693-d32d8b00-e774-11e8-8d36-87a75854cec5.png)
 * PepperList Activity </br>
-![layer 0-3](https://user-images.githubusercontent.com/34588197/48455920-f4d94300-e771-11e8-93b1-007335e23dd3.png)
+![layer 0-10](https://user-images.githubusercontent.com/34588197/48456694-d32d8b00-e774-11e8-8e98-603b4ec23e15.png)
 * Menu Activity </br>
-![layer 0-4](https://user-images.githubusercontent.com/34588197/48455921-f4d94300-e771-11e8-9374-7d1accb0fe4b.png)
-![layer 0-5](https://user-images.githubusercontent.com/34588197/48455922-f4d94300-e771-11e8-886b-88cf69eb26a2.png)
+![layer 0-11](https://user-images.githubusercontent.com/34588197/48456695-d32d8b00-e774-11e8-8a45-784ad2a7eb14.png)   
+![layer 0-12](https://user-images.githubusercontent.com/34588197/48456696-d32d8b00-e774-11e8-96a3-9a2c32bc248a.png)
 * Chat Activity </br>
-![layer 0-6](https://user-images.githubusercontent.com/34588197/48455923-f571d980-e771-11e8-94de-c69041c13f33.png)
+![layer 0-13](https://user-images.githubusercontent.com/34588197/48456697-d32d8b00-e774-11e8-8bec-0a46b1468285.png)
 * Help Page Activity </br>
-![layer 0-7](https://user-images.githubusercontent.com/34588197/48455925-f571d980-e771-11e8-8582-fcb5d2a62391.png)
+![layer 0-14](https://user-images.githubusercontent.com/34588197/48456698-d32d8b00-e774-11e8-8f0a-8ac685c273c9.png)
 
 ## Cloud Server
 ### Language (Framework)
