@@ -2,17 +2,19 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Language (IDE)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Java (Android Studio)
+Flask on Google App Engine
+React Native for App on Tablet
 
-### Prerequisites
+### User Libraries in Android
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Google AppCompat
+Picasso for processing image
+Chatkit
+CircleIndicator
+Butterknife
 
 ### Installing
 
@@ -46,13 +48,14 @@ Give an example
 
 ### screenshot 
 
-![screenshot_2018-11-13-13-14-46](https://user-images.githubusercontent.com/34588197/48445588-c2b4ea80-e74b-11e8-99ef-b4ed6d185424.png=150x)
-![screenshot_2018-11-13-13-14-57](https://user-images.githubusercontent.com/34588197/48445589-c2b4ea80-e74b-11e8-9b8f-b09226598585.png=150x)
-![screenshot_2018-11-13-13-17-29](https://user-images.githubusercontent.com/34588197/48445590-c2b4ea80-e74b-11e8-8937-70ccea60d160.png=150x)
-![screenshot_2018-11-13-13-17-37](https://user-images.githubusercontent.com/34588197/48445591-c2b4ea80-e74b-11e8-9207-3eea146211a6.png=150x)
-![screenshot_2018-11-13-13-17-41](https://user-images.githubusercontent.com/34588197/48445594-c2b4ea80-e74b-11e8-8d67-677322d4188b.png=150x)
-![screenshot_2018-11-13-13-17-47](https://user-images.githubusercontent.com/34588197/48445595-c2b4ea80-e74b-11e8-9529-75a2abf96265.png=150x)
-![screenshot_2018-11-13-13-17-55](https://user-images.githubusercontent.com/34588197/48445596-c34d8100-e74b-11e8-8a2d-a30562648193.png=150x)
+![layer 0-2](https://user-images.githubusercontent.com/34588197/48455919-f4d94300-e771-11e8-86d8-209dd4fbf73d.png)
+![layer 0-3](https://user-images.githubusercontent.com/34588197/48455920-f4d94300-e771-11e8-93b1-007335e23dd3.png)
+![layer 0-4](https://user-images.githubusercontent.com/34588197/48455921-f4d94300-e771-11e8-9374-7d1accb0fe4b.png)
+![layer 0-5](https://user-images.githubusercontent.com/34588197/48455922-f4d94300-e771-11e8-886b-88cf69eb26a2.png)
+![layer 0-6](https://user-images.githubusercontent.com/34588197/48455923-f571d980-e771-11e8-94de-c69041c13f33.png)
+![layer 0-7](https://user-images.githubusercontent.com/34588197/48455925-f571d980-e771-11e8-8582-fcb5d2a62391.png)
+![layer 0](https://user-images.githubusercontent.com/34588197/48455926-f571d980-e771-11e8-8846-e57aefce80b2.png)
+
 
 
 ### And coding style tests
