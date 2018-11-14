@@ -1,13 +1,11 @@
 # Robot telepresense
+Solution allows user to communicate with Pepper robot
 
-One Paragraph of project description goes here
-
-## Language (IDE)
-
+## Android
+### Language (IDE)
 Java (Android Studio)
 Flask on Google App Engine
 React Native for App on Tablet
-
 ### User Libraries in Android
 * Google AppCompat
 * [Picasso](http://square.github.io/picasso/) - Image downloading and caching library
