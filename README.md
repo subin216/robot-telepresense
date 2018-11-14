@@ -11,7 +11,6 @@ Java (Android Studio)
 * [Butterknife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
 ### screenshot 
 ![layer 0-8](https://user-images.githubusercontent.com/34588197/48456692-d294f480-e774-11e8-9fe6-8483908d95ca.png)
-![layer 0-9](https://user-images.githubusercontent.com/34588197/48456693-d32d8b00-e774-11e8-8d36-87a75854cec5.png)
 ![layer 0-10](https://user-images.githubusercontent.com/34588197/48456694-d32d8b00-e774-11e8-8e98-603b4ec23e15.png)
 ![layer 0-11](https://user-images.githubusercontent.com/34588197/48456695-d32d8b00-e774-11e8-8a45-784ad2a7eb14.png) 
 ![layer 0-12](https://user-images.githubusercontent.com/34588197/48456696-d32d8b00-e774-11e8-96a3-9a2c32bc248a.png)
@@ -29,6 +28,19 @@ Google Cloud Platform Account with an App Engine Project and a SQL Database Inst
 which can be installed using pip
 Ex: pip install <packagename>
 ```
+### Deployement
+To upload and run the Cloud Server in the Cloud:
+* Using the Google Cloud SDK go to the Cloud Server folder from our repository
+* run the command: gcloud app deploy </br>
+To setup a local instance of the Cloud Server:
+* Using the Google Cloud SDK go to the folder with the cloud_sql_proxy.exe you downloaded </br>
+  a. Run a proxy by using the command: cloud_sql_proxy.exe -instances=<PROJECTNAME>=tcp:<PORT> </br>
+      (Note: PROJECTNAME should be the “cloud_sql_instances:” value in app.yaml) </br>
+* Using a terminal go to the Cloud Server folder from our repository </br>
+  a. Run the Cloud Server instance by using:	python main.py
+### Built With
+* Flask – Web framework used
+* Flask-sqlalchemy – Object Relational Mapper used to interact with Database
 
 ## Pepper Server
 ### Language
